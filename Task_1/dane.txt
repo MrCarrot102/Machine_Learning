@@ -1,0 +1,8 @@
+To jest przykladowy plik
+po to 
+aby przetestowac 
+program 
+do zadania 10. 
+
+pozdrawiam serdecznie, 
+Mateusz Sierakowski :) 
